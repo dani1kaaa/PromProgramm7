@@ -1,0 +1,285 @@
+2022-11-28 19:54:26 [INFO   ] javafxapplication.JavaFXApplication - Start 
+2022-11-28 19:54:26 [INFO   ] javafxapplication.JavaFXApplication - Запись лога с уровнем INFO (информационная) 
+2022-11-28 19:54:26 [WARNING] javafxapplication.JavaFXApplication - Запись лога с уровнем WARNING (Предупреждение) 
+2022-11-28 19:54:26 [SEVERE ] javafxapplication.JavaFXApplication - Запись лога с уровнем SEVERE (серъёзная ошибка) 
+2022-11-28 19:54:26 [INFO   ] javafxapplication.JavaFXApplication - Some message 
+2022-11-28 19:54:26 [SEVERE ] javafxapplication.JavaFXApplication - My Exception: ERR! 
+2022-11-28 19:54:26 [INFO   ] javafxapplication.JavaFXApplication - End 
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:01:05 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:01:19 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:01:30 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:02:45 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:03:03 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:10:09 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:10:09 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:10:09 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:10:09 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:10:09 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:10:11 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:10:28 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:10:28 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:10:28 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:10:28 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:10:28 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:34:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:34:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:34:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:34:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:34:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:34:44 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+нояб. 28, 2022 8:35:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:35:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:35:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:35:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:35:43 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:36:41 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 28, 2022 8:36:41 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 28, 2022 8:36:41 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 28, 2022 8:36:41 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 28, 2022 8:36:41 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 28, 2022 8:36:41 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+нояб. 30, 2022 9:27:14 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 30, 2022 9:27:14 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 30, 2022 9:27:14 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 30, 2022 9:27:14 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 30, 2022 9:27:14 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 30, 2022 9:28:16 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+нояб. 30, 2022 9:28:16 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+нояб. 30, 2022 9:28:16 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+нояб. 30, 2022 9:28:16 PM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+нояб. 30, 2022 9:28:16 PM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+нояб. 30, 2022 9:28:18 PM javafxapplication.FXMLDocumentController buttonMathAction
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+дек. 01, 2022 10:40:04 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:40:04 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:40:04 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:40:04 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:40:04 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:40:08 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:40:08 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:40:08 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:40:08 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:40:08 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:40:55 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:40:55 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:40:55 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:40:55 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:40:55 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:42:02 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:42:02 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:42:02 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:42:02 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:42:02 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:42:07 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:42:07 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:42:07 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:42:07 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:42:07 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:42:11 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:42:11 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:42:11 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:42:11 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:42:11 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:44:30 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:44:30 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:44:30 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:44:30 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:44:30 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:46:15 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:46:15 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:46:15 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:46:15 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:46:15 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:46:38 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:46:38 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:46:38 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:46:38 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:46:38 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:47:59 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:47:59 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:47:59 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:47:59 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:47:59 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:48:18 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:48:18 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:48:18 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:48:18 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:48:18 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:49:45 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:49:45 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:49:45 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:49:45 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:49:45 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
+дек. 01, 2022 10:49:57 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Start
+дек. 01, 2022 10:49:57 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 01, 2022 10:49:57 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: Some message
+дек. 01, 2022 10:49:57 AM javafxapplication.FXMLDocumentController buttonMathAction
+SEVERE: My Exception: ERR!
+дек. 01, 2022 10:49:57 AM javafxapplication.FXMLDocumentController buttonMathAction
+INFO: End
